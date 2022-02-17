@@ -3,3 +3,8 @@
     object-fit: contain;
     
 }
+
+.Portfolio-pics{
+    max-height: 200px;
+    object-fit: contain;
+}
