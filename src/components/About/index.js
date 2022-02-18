@@ -8,7 +8,7 @@ function About(){
     return(
         <section>
             <div id=''>
-            <h1>About Me</h1>
+            <h1 id='about'>About Me</h1>
             </div>
             <div>
             <img id='lanny-pic' src={Lanny}></img>
