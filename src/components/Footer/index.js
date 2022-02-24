@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <section>
-            <ul className='flex-row px-1'>
+            <ul className='footerz'>
                 <li>
                     <a href="https://github.com/LannyLopez">
                         <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
